@@ -25,7 +25,7 @@ In today’s competitive business landscape, strategic expansion is essential fo
 - **Linear Regression**  
   Utilized for forecasting future sales growth and analyzing market trends across selected areas.
 
-## 🗂️ Project Structure
+
 
 
 
